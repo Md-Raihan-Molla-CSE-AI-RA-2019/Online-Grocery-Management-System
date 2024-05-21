@@ -1,6 +1,6 @@
-# Online Grocery Management System
+# Online Grocery Shopping System
 
-Description: Developed a comprehensive web-based system facilitating the management of online grocery orders, inventory tracking, and customer information, integrating user-friendly interfaces with features like real-time updates and secure payment processing.
+Description: This project provides effortless browsing and selection of products from home, with features like flexible payment options and product ordering. Customers can easily add items to their carts, view detailed order information and print receipts.
 
 
 Technologies Used: HTML, CSS, JavaScript, PHP, MySQL.
